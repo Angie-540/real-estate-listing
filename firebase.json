@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "real-estate-listing",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}

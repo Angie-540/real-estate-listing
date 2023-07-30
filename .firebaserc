@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "real-estate-listing-7a86f": {
+      "hosting": {
+        "real-estate-listing": [
+          "real-estate-listing-7a86f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "real-estate-listing-7a86f"
+  }
+}
